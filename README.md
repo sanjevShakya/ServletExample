@@ -1,2 +1,2 @@
 # ServletExample
-# Java Serlet example 
+# Java Servlet example 
